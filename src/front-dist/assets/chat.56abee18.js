@@ -1,0 +1,1 @@
+import{_ as c,o as a,a as t,Y as s,Z as _,g as o}from"./index.d1360085.js";const d={},n=e=>(s("data-v-9a22ec4a"),e=e(),_(),e),p={class:"chat"},r=n(()=>o("h2",null,"chat",-1)),h=[r];function i(e,l){return a(),t("div",p,h)}const f=c(d,[["render",i],["__scopeId","data-v-9a22ec4a"]]);export{f as default};

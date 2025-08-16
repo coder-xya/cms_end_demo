@@ -1,0 +1,1 @@
+import{_ as e,o as a,a as _}from"./index.d1360085.js";const s={},o={class:"dashboard"};function c(d,t){return a(),_("div",o,"dashboard")}const n=e(s,[["render",c],["__scopeId","data-v-4fecadb2"]]);export{n as default};

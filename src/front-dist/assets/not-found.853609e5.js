@@ -1,0 +1,1 @@
+import{_ as o,o as e,a as n}from"./index.d1360085.js";const _={},t={class:"not-found"};function c(s,a){return e(),n("div",t,"not-found")}const r=o(_,[["render",c],["__scopeId","data-v-8c941578"]]);export{r as default};
